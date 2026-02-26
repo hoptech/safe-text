@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Safe Text</string>
+
+    <!-- Tabs -->
+    <string name="tab_encrypt">Criptografar</string>
+    <string name="tab_decrypt">Descriptografar</string>
+
+    <!-- Passkey selector -->
+    <string name="select_passkey">Selecionar chave</string>
+
+    <!-- Encrypt tab -->
+    <string name="message_to_encrypt">Mensagem para criptografar</string>
+    <string name="encrypt_and_copy">Criptografar &amp; Copiar</string>
+    <string name="encrypted_output">Texto criptografado:</string>
+
+    <!-- Decrypt tab -->
+    <string name="message_to_decrypt">Mensagem criptografada</string>
+    <string name="decrypt">Descriptografar</string>
+    <string name="decrypted_output">Mensagem descriptografada:</string>
+
+    <!-- Passkey management -->
+    <string name="manage_passkeys">Gerenciar chaves</string>
+    <string name="passkey_label_hint">Nome (ex: João)</string>
+    <string name="passkey_value_hint">Chave</string>
+    <string name="suggest">Sugerir</string>
+    <string name="add_passkey">Adicionar</string>
+    <string name="delete_passkey">Excluir chave</string>
+    <string name="no_passkeys">Nenhuma chave ainda. Adicione uma acima.</string>
+
+    <!-- Feedback messages -->
+    <string name="feedback_select_passkey">Selecione uma chave primeiro</string>
+    <string name="feedback_enter_message">Digite uma mensagem primeiro</string>
+    <string name="feedback_encrypted_copied">Criptografado e copiado para a área de transferência</string>
+    <string name="feedback_encryption_failed">Falha na criptografia</string>
+    <string name="feedback_paste_message">Cole uma mensagem criptografada primeiro</string>
+    <string name="feedback_decrypted">Mensagem descriptografada</string>
+    <string name="feedback_decryption_failed">Falha na descriptografia — chave errada?</string>
+</resources>
