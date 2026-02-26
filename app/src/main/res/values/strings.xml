@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Safe Text</string>
+
+    <!-- Tabs -->
+    <string name="tab_encrypt">Encrypt</string>
+    <string name="tab_decrypt">Decrypt</string>
+
+    <!-- Passkey selector -->
+    <string name="select_passkey">Select passkey</string>
+
+    <!-- Encrypt tab -->
+    <string name="message_to_encrypt">Message to encrypt</string>
+    <string name="encrypt_and_copy">Encrypt &amp; Copy</string>
+    <string name="encrypted_output">Encrypted output:</string>
+
+    <!-- Decrypt tab -->
+    <string name="message_to_decrypt">Encrypted message</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="decrypted_output">Decrypted message:</string>
+
+    <!-- Passkey management -->
+    <string name="manage_passkeys">Manage passkeys</string>
+    <string name="passkey_label_hint">Label (e.g. John)</string>
+    <string name="passkey_value_hint">Passkey</string>
+    <string name="suggest">Suggest</string>
+    <string name="add_passkey">Add</string>
+    <string name="delete_passkey">Delete passkey</string>
+    <string name="no_passkeys">No passkeys yet. Add one above.</string>
+
+    <!-- Feedback messages -->
+    <string name="feedback_select_passkey">Select a passkey first</string>
+    <string name="feedback_enter_message">Enter a message first</string>
+    <string name="feedback_encrypted_copied">Encrypted and copied to clipboard</string>
+    <string name="feedback_encryption_failed">Encryption failed</string>
+    <string name="feedback_paste_message">Paste an encrypted message first</string>
+    <string name="feedback_decrypted">Message decrypted</string>
+    <string name="feedback_decryption_failed">Decryption failed — wrong passkey?</string>
+</resources>
